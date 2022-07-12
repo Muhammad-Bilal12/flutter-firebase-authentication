@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "322989721241",
+    "project_id": "flutter-authentication-form",
+    "storage_bucket": "flutter-authentication-form.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322989721241:android:0d3b5ee2a1975672fdda08",
+        "android_client_info": {
+          "package_name": "com.example.flutter_signin_form"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322989721241-7inqeq2mf0psbi02vlkl7ddhlmfb9kgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcBXEfP-RKx0lKgsUkuCWH5og-LPSF3Ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322989721241-7inqeq2mf0psbi02vlkl7ddhlmfb9kgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
